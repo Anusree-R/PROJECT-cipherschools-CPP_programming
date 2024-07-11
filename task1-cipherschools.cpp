@@ -1,4 +1,5 @@
 //TASK 1
+//construct a bst and implement insert and search operations
 #include <iostream>
 using namespace std;
 struct TreeNode {
